@@ -1,1 +1,1 @@
-{"name":"fancord-likes","version":"1.0.0","dependencies":{"@upstash/redis":"^1.34.0"}}
+{"name":"fancord-likes","version":"1.0.0","dependencies":{"@upstash/redis":"^1.38.0"}}
